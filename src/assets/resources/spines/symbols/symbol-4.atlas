@@ -4,311 +4,150 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-Layer 12
-  rotate: true
-  xy: 2, 2
-  size: 173, 289
-  orig: 173, 289
-  offset: 0, 0
-  index: -1
-base1
+item-4-ball
   rotate: false
-  xy: 1643, 364
-  size: 51, 79
-  orig: 51, 79
+  xy: 5, 321
+  size: 39, 39
+  orig: 39, 39
   offset: 0, 0
   index: -1
-base2
+item-4-bg
   rotate: false
-  xy: 1661, 6
-  size: 35, 76
-  orig: 35, 76
+  xy: 533, 238
+  size: 140, 140
+  orig: 140, 140
   offset: 0, 0
   index: -1
-close eyes
-  rotate: true
-  xy: 3, 152
-  size: 39, 13
-  orig: 39, 13
-  offset: 0, 0
-  index: -1
-effect light/light00
+item-4-border
   rotate: false
-  xy: 8, 337
-  size: 94, 95
-  orig: 94, 95
+  xy: 599, 1620
+  size: 142, 141
+  orig: 142, 141
   offset: 0, 0
   index: -1
-effect light/light01
+item-4-keeper
+  rotate: true
+  xy: 1037, 1237
+  size: 142, 133
+  orig: 142, 133
+  offset: 0, 0
+  index: -1
+vfx-4/0
   rotate: false
-  xy: 957, 260
-  size: 94, 95
-  orig: 94, 95
+  xy: 141, 170
+  size: 29, 25
+  orig: 29, 25
   offset: 0, 0
   index: -1
-effect light/light02
-  rotate: false
-  xy: 877, 649
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light03
-  rotate: false
-  xy: 982, 533
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light04
-  rotate: false
-  xy: 972, 640
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light05
-  rotate: false
-  xy: 948, 744
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light06
-  rotate: false
-  xy: 65, 1182
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light07
-  rotate: false
-  xy: 1158, 905
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light08
-  rotate: false
-  xy: 1129, 785
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light09
-  rotate: false
-  xy: 1153, 651
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light10
-  rotate: false
-  xy: 1177, 449
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light11
-  rotate: false
-  xy: 1146, 261
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light12
-  rotate: false
-  xy: 1179, 75
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light13
+vfx-4/1
   rotate: true
-  xy: 656, 1184
-  size: 94, 95
-  orig: 94, 95
+  xy: 412, 185
+  size: 24, 22
+  orig: 24, 22
   offset: 0, 0
   index: -1
-effect light/light14
+vfx-4/10
   rotate: true
-  xy: 796, 1180
-  size: 94, 95
-  orig: 94, 95
+  xy: 1486, 844
+  size: 152, 86
+  orig: 152, 86
   offset: 0, 0
   index: -1
-effect light/light15
+vfx-4/11
   rotate: true
-  xy: 961, 1182
-  size: 94, 95
-  orig: 94, 95
+  xy: 1483, 433
+  size: 125, 86
+  orig: 125, 86
   offset: 0, 0
   index: -1
-effect light/light16
+vfx-4/14
   rotate: true
-  xy: 1061, 1176
-  size: 94, 95
-  orig: 94, 95
+  xy: 997, 1498
+  size: 124, 86
+  orig: 124, 86
   offset: 0, 0
   index: -1
-effect light/light17
+vfx-4/15
   rotate: true
-  xy: 1176, 1165
-  size: 94, 95
-  orig: 94, 95
+  xy: 946, 1259
+  size: 154, 88
+  orig: 154, 88
   offset: 0, 0
   index: -1
-effect light/light18
+vfx-4/16
   rotate: true
-  xy: 1195, 170
-  size: 94, 95
-  orig: 94, 95
+  xy: 1272, 282
+  size: 152, 86
+  orig: 152, 86
   offset: 0, 0
   index: -1
-effect light/light19
+vfx-4/17
   rotate: true
-  xy: 1187, 555
-  size: 94, 95
-  orig: 94, 95
+  xy: 1563, 359
+  size: 468, 83
+  orig: 468, 83
   offset: 0, 0
   index: -1
-effect light/light20
+vfx-4/19
   rotate: true
-  xy: 1249, 7
-  size: 94, 95
-  orig: 94, 95
+  xy: 2, 158
+  size: 44, 456
+  orig: 44, 456
   offset: 0, 0
   index: -1
-effect light/light21
-  rotate: false
-  xy: 1021, 1044
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light22
+vfx-4/2
   rotate: true
-  xy: 1205, 353
-  size: 94, 95
-  orig: 94, 95
+  xy: 336, 554
+  size: 42, 34
+  orig: 42, 34
   offset: 0, 0
   index: -1
-effect light/light23
-  rotate: false
-  xy: 828, 1085
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light24
+vfx-4/20
   rotate: true
-  xy: 1243, 261
-  size: 94, 95
-  orig: 94, 95
+  xy: 2, 200
+  size: 20, 18
+  orig: 20, 18
   offset: 0, 0
   index: -1
-effect light/light25
+vfx-4/3
   rotate: true
-  xy: 1247, 637
-  size: 94, 95
-  orig: 94, 95
+  xy: 3, 1628
+  size: 65, 77
+  orig: 65, 77
   offset: 0, 0
   index: -1
-effect light/light26
+vfx-4/4
   rotate: true
-  xy: 1212, 732
-  size: 94, 95
-  orig: 94, 95
+  xy: 1313, 1277
+  size: 123, 73
+  orig: 123, 73
   offset: 0, 0
   index: -1
-effect light/light27
+vfx-4/5
   rotate: true
-  xy: 288, 1160
-  size: 94, 95
-  orig: 94, 95
+  xy: 466, 1387
+  size: 147, 86
+  orig: 147, 86
   offset: 0, 0
   index: -1
-effect light/light28
+vfx-4/6
   rotate: true
-  xy: 1230, 839
-  size: 94, 95
-  orig: 94, 95
+  xy: 1563, 78
+  size: 142, 86
+  orig: 142, 86
   offset: 0, 0
   index: -1
-effect light/light29
+vfx-4/8
   rotate: true
-  xy: 1220, 985
-  size: 94, 95
-  orig: 94, 95
+  xy: 1487, 1461
+  size: 144, 86
+  orig: 144, 86
   offset: 0, 0
   index: -1
-effect light/light30
+vfx-4/9
   rotate: true
-  xy: 1226, 1081
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light31
-  rotate: true
-  xy: 7, 1264
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light32
-  rotate: true
-  xy: 133, 1256
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-effect light/light33
-  rotate: true
-  xy: 190, 1171
-  size: 94, 95
-  orig: 94, 95
-  offset: 0, 0
-  index: -1
-hair1
-  rotate: true
-  xy: 1122, 872
-  size: 37, 57
-  orig: 37, 57
-  offset: 0, 0
-  index: -1
-hair2
-  rotate: false
-  xy: 277, 1512
-  size: 47, 41
-  orig: 47, 41
-  offset: 0, 0
-  index: -1
-symbol-background/ball
-  rotate: false
-  xy: 871, 3
-  size: 59, 67
-  orig: 59, 67
-  offset: 0, 0
-  index: -1
-symbol-background/blur
-  rotate: false
-  xy: 103, 1664
-  size: 121, 49
-  orig: 121, 49
-  offset: 0, 0
-  index: -1
-symbol-background/symbol-4
-  rotate: false
-  xy: 9, 875
-  size: 137, 138
-  orig: 137, 138
-  offset: 0, 0
-  index: -1
-symbol-static
-  rotate: false
-  xy: 827, 131
-  size: 141, 154
-  orig: 141, 154
+  xy: 23, 199
+  size: 1151, 1548
+  orig: 1151, 1548
   offset: 0, 0
   index: -1

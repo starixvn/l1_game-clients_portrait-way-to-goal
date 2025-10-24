@@ -4,157 +4,143 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-BONUS
+BG
+  rotate: false
+  xy: 124, 631
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+bonus text
   rotate: true
-  xy: 396, 1183
-  size: 150, 68
-  orig: 150, 68
+  xy: 4, 658
+  size: 114, 36
+  orig: 114, 36
   offset: 0, 0
   index: -1
-coconut
-  rotate: false
-  xy: 2, 12
-  size: 1098, 251
-  orig: 1098, 251
+c￲i
+  rotate: true
+  xy: 1277, 1472
+  size: 102, 78
+  orig: 102, 78
   offset: 0, 0
   index: -1
-leaf
+khung
   rotate: false
-  xy: 1013, 1147
-  size: 94, 32
-  orig: 94, 32
+  xy: 82, 1625
+  size: 142, 142
+  orig: 142, 142
   offset: 0, 0
   index: -1
-leaf 3
-  rotate: false
-  xy: 1095, 337
-  size: 62, 29
-  orig: 62, 29
+vfx/10
+  rotate: true
+  xy: 798, 105
+  size: 35, 35
+  orig: 35, 35
   offset: 0, 0
   index: -1
-lemon
+vfx/11
+  rotate: true
+  xy: 5, 462
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+vfx/12
+  rotate: true
+  xy: 194, 890
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+vfx/13
   rotate: false
-  xy: 14, 1068
+  xy: 926, 759
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+vfx/14
+  rotate: false
+  xy: 862, 604
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+vfx/15
+  rotate: true
+  xy: 1463, 314
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+vfx/16
+  rotate: true
+  xy: 528, 1522
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+vfx/17
+  rotate: true
+  xy: 156, 2
+  size: 1617, 349
+  orig: 1617, 349
+  offset: 0, 0
+  index: -1
+vfx/18
+  rotate: true
+  xy: 1196, 535
+  size: 127, 123
+  orig: 127, 123
+  offset: 0, 0
+  index: -1
+vfx/19
+  rotate: true
+  xy: 1144, 415
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1
+vfx/20
+  rotate: false
+  xy: 2, 1199
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+vfx/21
+  rotate: true
+  xy: 339, 579
+  size: 425, 1296
+  orig: 425, 1296
+  offset: 0, 0
+  index: -1
+vfx/22
+  rotate: true
+  xy: 267, 224
+  size: 554, 1381
+  orig: 554, 1381
+  offset: 0, 0
+  index: -1
+vfx/23
+  rotate: true
+  xy: 40, 2
+  size: 1051, 779
+  orig: 1051, 779
+  offset: 0, 0
+  index: -1
+vfx/24
+  rotate: true
+  xy: 46, 2
+  size: 627, 475
+  orig: 627, 475
+  offset: 0, 0
+  index: -1
+vfx/9
+  rotate: false
+  xy: 554, 632
   size: 32, 30
   orig: 32, 30
-  offset: 0, 0
-  index: -1
-symbol-8-static
-  rotate: false
-  xy: 4, 18
-  size: 667, 989
-  orig: 667, 989
-  offset: 0, 0
-  index: -1
-umbrella
-  rotate: false
-  xy: 739, 549
-  size: 38, 40
-  orig: 38, 40
-  offset: 0, 0
-  index: -1
-vfx/water00
-  rotate: false
-  xy: 1325, 191
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water01
-  rotate: false
-  xy: 1276, 1262
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water02
-  rotate: false
-  xy: 1281, 1177
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water03
-  rotate: false
-  xy: 1277, 448
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water04
-  rotate: false
-  xy: 1282, 105
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water05
-  rotate: false
-  xy: 1194, 1273
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water06
-  rotate: false
-  xy: 1113, 1273
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water07
-  rotate: false
-  xy: 1028, 1278
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water08
-  rotate: false
-  xy: 936, 1278
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water09
-  rotate: false
-  xy: 828, 1277
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water10
-  rotate: false
-  xy: 731, 1276
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water11
-  rotate: false
-  xy: 533, 1264
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water12
-  rotate: false
-  xy: 308, 167
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-water
-  rotate: false
-  xy: 332, 1256
-  size: 67, 59
-  orig: 67, 59
-  offset: 0, 0
-  index: -1
-water2
-  rotate: false
-  xy: 578, 1182
-  size: 70, 79
-  orig: 70, 79
   offset: 0, 0
   index: -1

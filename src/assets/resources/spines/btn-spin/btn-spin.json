@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "Mbrgyxxk30y8CgJlTOoq2vOqG3Q", "spine": "3.8.99" },
+"skeleton": { "hash": "VeDV6+Z2Sv1xLupQXw0kE4m+tNE", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "button", "parent": "root" },
@@ -37,18 +37,18 @@
 	{ "name": "light", "bone": "light", "color": "ffffff8b", "blend": "additive" },
 	{ "name": "spin_magic", "bone": "spin-magic" },
 	{ "name": "blink", "bone": "blink" },
-	{ "name": "blink2", "bone": "blink2", "blend": "additive" },
-	{ "name": "blink3", "bone": "blink3", "blend": "additive" },
-	{ "name": "blink4", "bone": "blink4", "blend": "additive" },
-	{ "name": "blink5", "bone": "blink5", "blend": "additive" },
-	{ "name": "blink6", "bone": "blink6", "color": "ffffff3d", "blend": "additive" },
-	{ "name": "blink7", "bone": "blink7", "color": "ffffff3d", "blend": "additive" },
-	{ "name": "blink8", "bone": "blink8", "color": "ffffff3d", "blend": "additive" },
-	{ "name": "blink10", "bone": "blink10", "color": "ffffff3d", "blend": "additive" },
-	{ "name": "blink9", "bone": "blink9", "color": "ffffff3d", "blend": "additive" },
-	{ "name": "blink13", "bone": "blink13", "color": "ffffff3d", "blend": "additive" },
-	{ "name": "blink11", "bone": "blink11", "color": "ffffff3d", "blend": "additive" },
-	{ "name": "blink12", "bone": "blink12", "color": "ffffff3d", "blend": "additive" },
+	{ "name": "blink2", "bone": "blink2" },
+	{ "name": "blink3", "bone": "blink3" },
+	{ "name": "blink4", "bone": "blink4" },
+	{ "name": "blink5", "bone": "blink5" },
+	{ "name": "blink6", "bone": "blink6", "color": "ffffff3d" },
+	{ "name": "blink7", "bone": "blink7", "color": "ffffff3d" },
+	{ "name": "blink8", "bone": "blink8", "color": "ffffff3d" },
+	{ "name": "blink10", "bone": "blink10", "color": "ffffff3d" },
+	{ "name": "blink9", "bone": "blink9", "color": "ffffff3d" },
+	{ "name": "blink13", "bone": "blink13", "color": "ffffff3d" },
+	{ "name": "blink11", "bone": "blink11", "color": "ffffff3d" },
+	{ "name": "blink12", "bone": "blink12", "color": "ffffff3d" },
 	{ "name": "path-blink", "bone": "button" },
 	{ "name": "path-blink2", "bone": "button" },
 	{ "name": "arrow", "bone": "arrow" },
@@ -73,12 +73,12 @@
 		"name": "default",
 		"attachments": {
 			"arrow": {
-				"arrow": { "width": 118, "height": 118 },
-				"arrow-blur": { "x": 0.5, "width": 118, "height": 118 }
+				"arrow": { "width": 178, "height": 178 },
+				"arrow-blur": { "x": 0.5, "width": 180, "height": 180 }
 			},
 			"arrow-spin": {
-				"arrow": { "width": 118, "height": 118 },
-				"arrow-blur": { "x": 0.5, "width": 118, "height": 118 }
+				"arrow": { "width": 178, "height": 178 },
+				"arrow-blur": { "x": 0.5, "width": 180, "height": 180 }
 			},
 			"black-72-disable": {
 				"black-72-disable": { "width": 188, "height": 188 }
@@ -151,10 +151,10 @@
 				}
 			},
 			"spin-button-base-bg": {
-				"spin-button-base-bg": { "width": 182, "height": 182 }
+				"spin-button-base-bg": { "width": 208, "height": 208 }
 			},
 			"spin-button-base-bg2": {
-				"spin-button-base-bg": { "width": 182, "height": 182 }
+				"spin-button-base-bg": { "width": 208, "height": 208 }
 			},
 			"spin_magic": {
 				"spin-logo": { "width": 208, "height": 208 }

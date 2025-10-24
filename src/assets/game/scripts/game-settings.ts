@@ -1,6 +1,6 @@
-export const GAME_NAME = "SummerHeat";
+export const GAME_NAME = "WayToGoal";
 export const settings = {
-    id: 122,
+    id: 49,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
     tolgeeNamespaces: [GAME_NAME, "Classicslot"],

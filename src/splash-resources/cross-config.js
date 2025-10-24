@@ -1,4 +1,4 @@
 window.crossConfig = {
     backgroundLocalized: false,
-    storagePrefixKey: "SummerHeat",
+    storagePrefixKey: "WayToGoal",
 };
