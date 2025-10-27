@@ -438,6 +438,11 @@ export const languages = {
         "total_win": "মোট জয়",
         "Unexpected_gift_code_error_message": " অপ্রত্যাশিত ত্রুটি ঘটেছে। পরে আবার চেষ্টা করুন।",
         "Close": "বন্ধ"
+    },
+    "wayToGoal": {
+        "gameNames.49": "Way to Goal",
+        "game_name": "Way to Goal",
+        "game_icon_name": "Way to Goal"
     }
 };
 

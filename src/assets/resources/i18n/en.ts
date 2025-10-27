@@ -438,6 +438,11 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Unexpected error occurred. Please try again later.",
         "Close": "Close"
+    },
+    "wayToGoal": {
+        "gameNames.49": "Way to Goal",
+        "game_name": "Way to Goal",
+        "game_icon_name": "Way to Goal"
     }
 };
 

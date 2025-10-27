@@ -438,6 +438,11 @@ export const languages = {
         "total_win": "合計勝利額",
         "Unexpected_gift_code_error_message": "予期せぬエラーが発生しました。後ほどもう一度お試しください。",
         "Close": "閉じる"
+    },
+    "wayToGoal": {
+        "gameNames.49": "Way to Goal",
+        "game_name": "Way to Goal",
+        "game_icon_name": "Way to Goal"
     }
 };
 

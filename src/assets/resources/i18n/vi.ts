@@ -438,6 +438,11 @@ export const languages = {
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
         "Close": "Đóng"
+    },
+    "wayToGoal": {
+        "gameNames.49": "Đường Đến Khung Thành",
+        "game_name": "Đường Đến Khung Thành",
+        "game_icon_name": "Đường Đến\nKhung Thành"
     }
 };
 
