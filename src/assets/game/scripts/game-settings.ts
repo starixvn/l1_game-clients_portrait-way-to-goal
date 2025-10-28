@@ -3,7 +3,7 @@ export const settings = {
     id: 49,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
-    tolgeeNamespaces: [GAME_NAME, "Classicslot"],
+    tolgeeNamespaces: ["wayToGoal", "Classicslot"],
     durations: {
         // dont need these durations configs for this game
         wholeRound: 14,
