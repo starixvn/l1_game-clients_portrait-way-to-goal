@@ -7431,7 +7431,7 @@
     "propertyPath": [
       "_fontSize"
     ],
-    "value": 25
+    "value": 30
   },
   {
     "__type__": "cc.Node",
