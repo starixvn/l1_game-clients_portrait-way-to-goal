@@ -99,15 +99,15 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{-4,0}</string>
                 <key>spriteSize</key>
-                <string>{65,74}</string>
+                <string>{100,80}</string>
                 <key>spriteSourceSize</key>
-                <string>{65,74}</string>
+                <string>{112,80}</string>
                 <key>textureRect</key>
-                <string>{{323,561},{65,74}}</string>
+                <string>{{791,68},{100,80}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>portrait-notification-bg.png</key>
             <dict>
@@ -180,7 +180,7 @@
                 <key>spriteSourceSize</key>
                 <string>{100,100}</string>
                 <key>textureRect</key>
-                <string>{{261,685},{78,74}}</string>
+                <string>{{323,561},{78,74}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -210,7 +210,7 @@
                 <key>spriteSourceSize</key>
                 <string>{100,100}</string>
                 <key>textureRect</key>
-                <string>{{791,116},{84,78}}</string>
+                <string>{{261,685},{84,78}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -240,9 +240,9 @@
                 <key>spriteSourceSize</key>
                 <string>{100,100}</string>
                 <key>textureRect</key>
-                <string>{{791,68},{46,80}}</string>
+                <string>{{963,932},{46,80}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>symbol-2-blur.png</key>
             <dict>
@@ -558,7 +558,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:3697d7903b2e42f88f2a074df435848c:997c1cc0810fe337eeda0f603e43880b:3c13b940d52c931d845dbb5c93af3d66$</string>
+            <string>$TexturePacker:SmartUpdate:e599fc1bf31f818bdb30380aebd36358:a28273c54be839baab41aef643ef1735:3c13b940d52c931d845dbb5c93af3d66$</string>
             <key>textureFileName</key>
             <string>standard-slot-game.webp</string>
         </dict>

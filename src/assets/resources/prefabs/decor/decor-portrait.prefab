@@ -96,8 +96,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1.4,
-      "y": 1.4,
+      "x": 0.76,
+      "y": 0.76,
       "z": 1
     },
     "_mobility": 0,
@@ -161,11 +161,11 @@
       "a": 255
     },
     "_skeletonData": {
-      "__uuid__": "1b16be15-bb77-42df-9e58-d2b70c402946",
+      "__uuid__": "37eb7012-1e63-4bef-8cac-7ac0d2177fc8",
       "__expectedType__": "sp.SkeletonData"
     },
     "defaultSkin": "default",
-    "defaultAnimation": "mascot",
+    "defaultAnimation": "animation",
     "_premultipliedAlpha": false,
     "_timeScale": 1,
     "_preCacheMode": 0,
