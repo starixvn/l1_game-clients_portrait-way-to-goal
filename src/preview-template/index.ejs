@@ -15,12 +15,64 @@
         <meta name="renderer" content="webkit" />
         <meta name="force-rendering" content="webkit" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <link rel="stylesheet" type="text/css" href="./index.css" />
+        
+        <!-- Preload critical resources -->
+        <link rel="preload" href="./index.css" as="style" crossorigin="anonymous" />
+        <link rel="preload" href="/scripting/polyfills/bundle.js" as="script" crossorigin="anonymous" />
+        <link rel="preload" href="/scripting/systemjs/system.js" as="script" crossorigin="anonymous" />
+        
+        <!-- Load CSS asynchronously to prevent render blocking -->
+        <link rel="stylesheet" type="text/css" href="./index.css" media="print" onload="this.media='all'" crossorigin="anonymous" />
+        <noscript><link rel="stylesheet" type="text/css" href="./index.css" crossorigin="anonymous" /></noscript>
     </head>
     <body>
         <%- include(cocosToolBar, {config: config}) %>
-        <div style="display: flex;flex: auto;align-items: center;">
+        <div style="display: flex;flex: auto;align-items: start;">
             <%- include ./dist/index.html %>
+            
+            <!-- Optimized asset loading -->
+            <script>
+                // Performance optimization: Preload and lazy load assets
+                const optimizeLoading = () => {
+                    // Preload critical assets
+                    const preloadAsset = (href, as) => {
+                        const link = document.createElement('link');
+                        link.rel = 'preload';
+                        link.href = href;
+                        link.as = as;
+                        link.crossOrigin = 'anonymous';
+                        document.head.appendChild(link);
+                    };
+                    
+                    // Preload main game assets
+                    preloadAsset('/dist/assets/index.691dfd76.js', 'script');
+                    preloadAsset('/dist/assets/index.741f95c0.css', 'style');
+                    
+                    // Lazy load non-critical scripts after page load
+                    const lazyLoadScripts = () => {
+                        // Add any non-critical scripts here
+                        console.log('Lazy loading non-critical scripts...');
+                    };
+                    
+                    // Run lazy loading after initial render
+                    if (document.readyState === 'loading') {
+                        document.addEventListener('DOMContentLoaded', lazyLoadScripts);
+                    } else {
+                        lazyLoadScripts();
+                    }
+                };
+                
+                // Start optimization immediately
+                optimizeLoading();
+                
+                // Performance monitoring
+                if ('performance' in window) {
+                    window.addEventListener('load', () => {
+                        const perfData = performance.getEntriesByType('navigation')[0];
+                        console.log('Page load time:', perfData.loadEventEnd - perfData.loadEventStart, 'ms');
+                    });
+                }
+            </script>
             <div id="content" class="content">
                 <div class="contentWrap">
                     <div id="GameDiv" class="wrapper">

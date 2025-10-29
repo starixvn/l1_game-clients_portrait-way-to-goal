@@ -1,0 +1,25 @@
+{
+    "others": {
+        "resources": [
+            "spines/symbols/symbol-0",
+            "spines/symbols/symbol-1",
+            "spines/symbols/symbol-2",
+            "spines/symbols/symbol-3",
+            "spines/symbols/symbol-4",
+            "spines/symbols/symbol-5",
+            "spines/symbols/symbol-6",
+            "spines/symbols/symbol-7",
+            "spines/symbols/symbol-8",
+            "spines/symbols/symbol-9",
+            "spines/symbols/symbol-10",
+            "spines/symbols/symbol-10-jackpot",
+            "spines/symbols/symbol-10-jackpot-vi-VN",
+            "spines/symbols/winning-animation"
+        ]
+    },
+    "localized": {
+        "resources": {
+            "1": []
+        }
+    }
+}
